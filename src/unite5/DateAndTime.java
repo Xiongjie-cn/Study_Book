@@ -17,6 +17,6 @@ public class DateAndTime {
         String form = String.format("%tF", date);
         //输出信息
         System.out.println("全部的时间信息是：" + time);
-        System.out.println("年-月-日格式：" + form);
+        System.out.println("年-月-日格式:" + form);
     }
 }

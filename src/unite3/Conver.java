@@ -2,7 +2,9 @@ package unite3;
 
 public class Conver {
     public static void main(String[] args){
-        byte mybyte = 127;                   //byte数据类型最大值
+        //byte数据
+        byte mybyte = 127;
+        //定义int数据类型myint
         int myint = 150;
         float myfloat = 452.12f;
         char mychar = 10;
